@@ -131,7 +131,7 @@ option = st.sidebar.selectbox(
 
 if option == 'Generating poem':
     model_simplified = build_model(VOCABULARY_SIZE, embedding_dim, rnn_units, simplified_batch_size)
-    model_simplified.load_weights('./model/poem_generation_rnn_raw.h5')
+    model_simplified.load_weights('./model/weights.h5')
     print("Loaded Model from disk")
     #model_simplified = load_model('./model/trained_model.h5', compile=False)
     model_simplified.build(tf.TensorShape([simplified_batch_size, None]))
