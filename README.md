@@ -38,5 +38,8 @@ Also, Voronoi graphs were made...📈📈📈📈
 
 - [Poem generator visualization (Streamlit)](https://github.com/andreamorgar/poesIA/blob/master/generating_poems.py): poems generator code using streamlit 
 
+- [EDA of the poetry dataset](https://github.com/andreamorgar/poesIA/blob/master/data%20exploration.ipynb): Exploratory Data Analysis of the dataset, including a basic NLP complete task!
+
+- [Poem genetator code](https://github.com/andreamorgar/poesIA/blob/master/poetry%20generator.ipynb): code to generate synthetic poems with a RNN
 
 
