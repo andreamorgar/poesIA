@@ -42,4 +42,5 @@ Also, Voronoi graphs were made...📈📈📈📈
 
 - [Poem genetator code](https://github.com/andreamorgar/poesIA/blob/master/poetry%20generator.ipynb): code to generate synthetic poems with a RNN
 
+* **Recommended**: open the notebooks in [Colaboratory](https://colab.research.google.com/github/andreamorgar/poesIA/blob/master/).
 
