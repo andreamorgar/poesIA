@@ -1,7 +1,9 @@
 # poesIA: a poetry generator in Spanish 📚📚💻
 A poetry generator from a scrapped corpus of Spanish poetry. EDA and general NLP tasks are included. 
 
-Here a visualization of the generator performance with streamlit
+
+## Poem genetator 📚🤯
+Here a visualization of the generator performance with streamlit. Given a words.... it generates a beutiful poem in Spanish✨✨✨✨
 
 ![wordcloud](images/poem_generator.png)
 
