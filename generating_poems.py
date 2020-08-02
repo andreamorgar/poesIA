@@ -16,7 +16,7 @@ embedding_dim = 256
 
 
 #read_dataset
-poems_df = pd.read_csv('poems.csv')
+poems_df = pd.read_csv('./data/poems.csv')
 #Filtering out large poems
 poems_df['string'] = poems_df.apply(lambda row: f'\n{row["title"]}\n\n{row["author"]}\n\n{row["content"]}', axis=1)
 poems_df['length'] = poems_df.string.map(len)
