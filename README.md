@@ -5,8 +5,8 @@ A poetry generator from a scrapped corpus of Spanish poetry. EDA and general NLP
 ## Exploratory Data Analysis 🔎🔎
 
 We decided to make some word counts as well as search for relations between authors and poems in the whole dataset 📈
+<img src="images/graph3.png" alt="Author count" width="500"/>
 
-![graph1](images/graph3.png)
 
 We also took into account specific authors and established some comparisons. We detected relations between textual data such as antithesis and polysemy. Awesome isn't it? 🤩
 
