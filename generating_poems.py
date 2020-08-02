@@ -135,6 +135,7 @@ if option == 'Generating poem':
     print("Loaded Model from disk")
     #model_simplified = load_model('./model/trained_model.h5', compile=False)
     model_simplified.build(tf.TensorShape([simplified_batch_size, None]))
+    #model_simplified.save_weights("./model/weights.h5")
     st.title('Start generating')
 
     word = st.text_input('Type the word you want to start the poem with', value = 'Corazón')
