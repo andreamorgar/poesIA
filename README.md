@@ -9,6 +9,11 @@ Here a visualization of the generator performance with streamlit. Given a words.
 
 ## Exploratory Data Analysis 🔎🔎
 
+We generated an overview of the whole data. We analysis the scope and length of the vocabulary involved, generating some visualizations ☁️☁️☁️
+
+![wordcloud](images/wordcloud.jpg)
+
+
 We decided to make some word counts as well as search for relations between authors and poems in the whole dataset 📈
 <img src="images/graph3.png" alt="Author count" width="500"/>
 
@@ -17,9 +22,7 @@ We also took into account specific authors and established some comparisons. We 
 
 ![graph2](images/graph2.png)
 
-We generated an overview of the whole data. We analysis the scope and length of the vocabulary involved, generating some visualizations ☁️☁️☁️
 
-![wordcloud](images/wordcloud.jpg)
 
 An embedding model was build to detect polysemy, similar words, and common word collocations in poetry. So many word relations in poems!
 
@@ -32,5 +35,8 @@ Also, Voronoi graphs were made...📈📈📈📈
 
 ## Relevant codes
 - [Script for scrapping the data](https://github.com/andreamorgar/poesIA/blob/master/poetry-scrapper.py): script that generates a .csv files with the poems scraped from the blog entries of a Spanish poetry webpage (link to the webpage [here](https://www.poemas-del-alma.com))
+
+- [Poem generator visualization (Streamlit)](https://github.com/andreamorgar/poesIA/blob/master/generating_poems.py): poems generator code using streamlit 
+
 
 
