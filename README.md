@@ -3,13 +3,13 @@ A poetry generator from a scrapped corpus of Spanish poetry. EDA and general NLP
 
 
 ## Poem genetator 📚🤯
-Here a visualization of the generator performance with streamlit. Given a words.... it generates a beutiful poem in Spanish✨✨✨✨
+Here a visualization of the generator performance with streamlit. Given some words.... it generates a beautiful poem in Spanish✨✨✨✨
 
 ![wordcloud](images/poem_generator.png)
 
 ## Exploratory Data Analysis 🔎🔎
 
-We generated an overview of the whole data. We analysis the scope and length of the vocabulary involved, generating some visualizations ☁️☁️☁️
+We generated an overview of the whole data. We analyze the scope and length of the vocabulary involved, generating some nice visualizations ☁️☁️☁️
 
 ![wordcloud](images/wordcloud.jpg)
 
@@ -34,13 +34,13 @@ Also, Voronoi graphs were made...📈📈📈📈
 ![wordcloud](images/embedding2.png).
 
 ## Relevant codes
-- [Script for scrapping the data](https://github.com/andreamorgar/poesIA/blob/master/poetry-scrapper.py): script that generates a .csv files with the poems scraped from the blog entries of a Spanish poetry webpage (link to the webpage [here](https://www.poemas-del-alma.com))
+- [Script for scrapping the data](https://github.com/andreamorgar/poesIA/blob/master/poetry-scrapper.py): script that generates a .csv files with the poems scraped from the blog entries of a Spanish poetry webpage (link to the webpage [here](https://www.poemas-del-alma.com)).
 
-- [Poem generator visualization (Streamlit)](https://github.com/andreamorgar/poesIA/blob/master/generating_poems.py): poems generator code using streamlit 
+- [Poem generator visualization (Streamlit)](https://github.com/andreamorgar/poesIA/blob/master/generating_poems.py): poems generator code using streamlit. 
 
 - [EDA of the poetry dataset](https://github.com/andreamorgar/poesIA/blob/master/data%20exploration.ipynb): Exploratory Data Analysis of the dataset, including a basic NLP complete task!
 
-- [Poem genetator code](https://github.com/andreamorgar/poesIA/blob/master/poetry%20generator.ipynb): code to generate synthetic poems with a RNN
+- [Poem genetator code](https://github.com/andreamorgar/poesIA/blob/master/poetry%20generator.ipynb): code to generate synthetic poems with a RNN.
 
 * **Recommended**: open the notebooks in [Colaboratory](https://colab.research.google.com/github/andreamorgar/poesIA/blob/master/).
 
