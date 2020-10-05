@@ -38,8 +38,14 @@ Also, Voronoi graphs were made...📈📈📈📈
 
 - [Poem generator visualization (Streamlit)](generating_poems.py): poems generator code using streamlit.
 
+### notebooks
+
 - [EDA of the poetry dataset](notebooks/data exploration.ipynb): Exploratory Data Analysis of the dataset, including a basic NLP complete task!
 
 - [Poem genetator code](notebooks/poetry generator.ipynb): code to generate synthetic poems with a RNN.
 
 * **Recommended**: open the notebooks in [Colaboratory](https://colab.research.google.com/github/andreamorgar/poesIA/blob/master/).
+
+## Talks
+
+This project has been presented as a talk in the [PyConEs 2020 (Pandemic Edition)](https://2020.es.pycon.org/). You can find the [slides](slides.pdf) in this repo and the [video](https://www.youtube.com/watch?v=0C96vAa9NHY&t) in youtube.
