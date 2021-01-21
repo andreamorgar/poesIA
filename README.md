@@ -48,4 +48,4 @@ Also, Voronoi graphs were made...📈📈📈📈
 
 ## Talks
 
-This project has been presented as a talk in the [PyConEs 2020 (Pandemic Edition)](https://2020.es.pycon.org/). You can find the [slides](slides.pdf) in this repo and the [video](https://www.youtube.com/watch?v=0C96vAa9NHY&t) in youtube.
+This project has been presented as a talk in the [PyConEs 2020 (Pandemic Edition)](https://2020.es.pycon.org/). You can find the [slides](slides.pdf) in this repo and the [video](https://www.youtube.com/watch?v=0C96vAa9NHY&t) in youtube. 
